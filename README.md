@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Ariful
+- 👋 Hi, I’m Md Ariful Islam
 - 🤝 I am Passionate about competitive programming and solving programming problems with logical and analytical skills using data structure and algorithm knowledge. 
-- 👀 As a person i am an optimist and i always looking for opportunities
-- 🌱 Currently I am learning Angular and JavaScript 
-- 💞️ I’m looking to collaborate on Realtime Application 
+- 👀 As a person, I am an optimist and always look for opportunities. I strive continually for excellence and I never compromise with the 
+tasks that are assigned to me.
+- 🌱 I’m into the learning thing!
+- 💞️ I’m looking to collaborate on Realtime Application and HCI 
 - 📫 How to reach me m.ariful@live.utm.my
 - ⚡ Fun fact None
 
